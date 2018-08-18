@@ -25,10 +25,4 @@ function inc(n) {
   return a += n ;
 }
 
-function inc(n) {
-  return n - 1 ;
-}
-
-
-
 
