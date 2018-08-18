@@ -21,8 +21,8 @@ function divide(a,b) {
   return a / b ;
 }
 
-function inc(n) {
-  return a + n ;
+function inc(a) {
+  return a + 1 ;
 }
 
 
