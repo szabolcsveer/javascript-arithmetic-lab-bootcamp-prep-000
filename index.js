@@ -22,7 +22,7 @@ function divide(a,b) {
 }
 var n = 2;
 function inc(n) {
-  return a += n ;
+  return a + n ;
 }
 
 
